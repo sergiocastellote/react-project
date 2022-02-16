@@ -1,0 +1,37 @@
+{
+  "login": {
+    "bearer": "12345678"
+  },
+  "films": [
+    {
+      "id": "1",
+      "title": "El señor de los anillos",
+      "description": "Frodo tiene que destruir el anillo"
+    },
+    {
+      "id": "3",
+      "title": "Shutter island",
+      "description": "Di Caprio está loquillo"
+    },
+    {
+      "title": "dewdwe1",
+      "description": "dwedewddwedweqqqqq",
+      "id": "IERqf78"
+    },
+    {
+      "title": "juyjuy",
+      "description": "jyujyu",
+      "id": "X3MBYDM"
+    },
+    {
+      "title": "frfer",
+      "description": "ferfer",
+      "id": "397y1e3"
+    },
+    {
+      "title": "yhyt",
+      "description": "htyh",
+      "id": "0UYAt-m"
+    }
+  ]
+}
